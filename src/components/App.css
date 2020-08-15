@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+}
+
+#header {
+    background-color: tomato;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.window,
+.window:focus {
+    border-radius: 0 0 5px 5px;
+    color: white;
+    border-color: black;
+    background: rgb(90, 90, 90);
+}
+
+#loadingMessage {
+    font-family: "Open Sans", sans-serif;
+}
